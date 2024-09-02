@@ -18,17 +18,7 @@ This project implements a Caesar Cipher encryption and decryption tool with adde
 - <b>ChatGPT</b>
 - <b>Bash</b>
 
-<h2>Environments Used </h2>
 
-- <b>Visual Studio Code </b>
 
-  
 
-<h2>Program walk-through:</h2>
 
-<p align="center"> <br/>
-<img src="https://imgur.com/dPzInDg.png">
-<img src="https://imgur.com/o08ZpNB.png">
-<img src="https://imgur.com/KBQ16SL.png">
-<img src="https://imgur.com/IoJN6iB.png">
-<img src="https://imgur.com/ukm2FVU.png">
